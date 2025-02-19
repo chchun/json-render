@@ -8,15 +8,15 @@
     "RSSI": "-71",
     "TX Power Level": "-10",
     "Timestamp": 1739263607589
-  },  
+  },
   {
     "MAC": "FF:4D:BD:F2:AD:55",
     "ADV_org": "02010613095641524C30363432303330331303030320303A00203FF0201",
     "ADV": {
       "Flags": "06",
       "Device Name": "BT5.0Keyboard",      
-      "Manufacturer Data": "02 01"
-    }
+      "Manufacturer Data": "0233301"
+    },
     "RSSI": "-71",
     "TX Power Level": "-10",    
     "Timestamp": 1739263607584
@@ -52,7 +52,7 @@
       "Flags": "05",
       "Device Name": "mCandle",
       "Service UUIDs": "01010110",
-      "Service Data": "test1",      
+      "Service Data": "test1"
     },
     "RSSI": "-68",
     "TX Power Level": "-12",
@@ -73,10 +73,10 @@
     "MAC": "D4:E5:F6:A1:B2:C3",
     "ADV_org": "0201060906AABBCCDDEEFF",
     "ADV": {
-      "Flags": "09",      
+      "Flags": "09",
       "Device Name": "mCandle",
       "Service UUIDs": "01010110",
-      "Service Data": "mcandle", 
+      "Service Data": "mcandle"
     },
     "RSSI": "-50",
     "TX Power Level": "-18",
