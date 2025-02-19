@@ -8,14 +8,26 @@
     "RSSI": "-71",
     "TX Power Level": "-10",
     "Timestamp": 1739263607589
+  },  
+  {
+    "MAC": "FF:4D:BD:F2:AD:55",
+    "ADV_org": "02010613095641524C30363432303330331303030320303A00203FF0201",
+    "ADV": {
+      "Flags": "06",
+      "Device Name": "BT5.0Keyboard",      
+      "Manufacturer Data": "02 01"
+    }
+    "RSSI": "-71",
+    "TX Power Level": "-10",    
+    "Timestamp": 1739263607584
   },
   {
     "MAC": "Z4:4D:BD:F2:AD:36",
     "ADV_org": "02010613095641524C30363432303330331303030320303A00203FF0201",
     "ADV": {
       "Flags": "06",
-      "Device Name": "VARL063030010002",
-      "Service UUIDs": "A0 02",
+      "Device Name": "mCandle",
+      "Service UUIDs": "01010110",
       "Service Data": "chchun",
       "Manufacturer Data": "02 01"
     },
@@ -38,8 +50,9 @@
     "ADV_org": "0201060503CCDD0011223344",
     "ADV": {
       "Flags": "05",
-      "Device Name": "Smart Sensor",
-      "Manufacturer Data": "CC DD 00 11 22 33 44"
+      "Device Name": "mCandle",
+      "Service UUIDs": "01010110",
+      "Service Data": "test1",      
     },
     "RSSI": "-68",
     "TX Power Level": "-12",
@@ -49,6 +62,7 @@
     "MAC": "C3:D4:E5:F6:A1:B2",
     "ADV_org": "1EFF06010A0B0C0D0E0F",
     "ADV": {
+      "Device Name": "Buds2 Pro",
       "Manufacturer Data": "06 01 0A 0B 0C 0D 0E 0F"
     },
     "RSSI": "-55",
@@ -59,10 +73,10 @@
     "MAC": "D4:E5:F6:A1:B2:C3",
     "ADV_org": "0201060906AABBCCDDEEFF",
     "ADV": {
-      "Flags": "09",
-      "Device Name": "BLE Tracker",
-      "Service UUIDs": "CC DD EE FF",
-      "Manufacturer Data": "AA BB CC DD EE FF"
+      "Flags": "09",      
+      "Device Name": "mCandle",
+      "Service UUIDs": "01010110",
+      "Service Data": "mcandle", 
     },
     "RSSI": "-50",
     "TX Power Level": "-18",
