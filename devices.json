@@ -27,7 +27,7 @@
     "ADV": {
       "Flags": "06",
       "Device Name": "mCandle",
-      "Service UUIDs": "01010110",
+      "Service UUIDs": "12345678-1111-2222-123456789012",
       "Service Data": "chchun",
       "Manufacturer Data": "02 01"
     },
@@ -51,7 +51,7 @@
     "ADV": {
       "Flags": "05",
       "Device Name": "mCandle",
-      "Service UUIDs": "01010110",
+      "Service UUIDs": "12345678-1111-2222-123456789012",
       "Service Data": "test1"
     },
     "RSSI": "-68",
@@ -75,7 +75,7 @@
     "ADV": {
       "Flags": "09",
       "Device Name": "mCandle",
-      "Service UUIDs": "01010110",
+      "Service UUIDs": "12345678-1111-2222-123456789012",
       "Service Data": "mcandle"
     },
     "RSSI": "-50",
